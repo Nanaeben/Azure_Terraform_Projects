@@ -18,6 +18,7 @@ resource "random_string" "random" {
   special = false
   upper = false
 }
+ 
 
 resource "azurerm_resource_group" "myrg1" {
   name     = "myrg-1"
