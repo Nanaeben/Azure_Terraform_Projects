@@ -3,3 +3,6 @@
 *.hcl
 *.backup
 *.0_x5
+*.1_x5
+07-Azure-Bastion-Host-VM/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.101.0/darwin_arm64/LICENSE
+*.2_x5
