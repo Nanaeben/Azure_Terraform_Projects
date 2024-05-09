@@ -13,6 +13,7 @@ provider "azurerm" {
   }
 }
 
+
 resource "azurerm_resource_group" "my_demo_rg1" {
   location = "eastus"
   name = "my_demo_rg1"
